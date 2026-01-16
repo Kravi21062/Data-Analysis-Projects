@@ -35,7 +35,7 @@ This HR Analytics Dashboard helps track employee insights such as attrition, sal
 - Columns: EmployeeID, Department, JobRole, Salary, Tenure, Attrition, etc.
 
 ## Dashboard Screenshot
-![Dashboard](hr-analysics-db-pbi/hr-db-image.png)
+![Dashboard](hr-db-image.png)
 
 ## How to Use
 1. Download the dataset and PBIX file
