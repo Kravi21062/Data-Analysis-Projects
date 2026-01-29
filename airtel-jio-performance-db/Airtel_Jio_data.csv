@@ -1,0 +1,1001 @@
+Subscriber_ID,Operator,Region,Plan_Type,Monthly_Charges_INR,Data_Usage_GB,Voice_Minutes,ARPU_INR,Network_Type,Churn_Flag
+1,Airtel,West,Unlimited,682,4.34,1700,295,5G,0
+2,Jio,East,5G Premium,654,2.54,1990,255,5G,1
+3,Jio,Central,Basic,764,6.64,1355,412,5G,0
+4,Jio,North,Basic,762,26.94,427,445,5G,0
+5,Airtel,Central,Student,858,8.76,1566,219,5G,1
+6,Airtel,North,Family,358,11.92,151,342,4G,0
+7,Airtel,South,5G Premium,212,4.95,475,217,4G,0
+8,Jio,North,Family,376,8.23,362,201,4G,1
+9,Jio,West,Student,610,16.54,366,434,5G,0
+10,Jio,East,Basic,251,19.02,458,158,4G,0
+11,Airtel,South,Family,606,8.87,1440,400,4G,0
+12,Jio,North,Family,220,3.62,1447,447,4G,0
+13,Jio,Central,Basic,228,12.95,1789,333,5G,0
+14,Airtel,South,5G Premium,901,8.56,1993,328,5G,0
+15,Airtel,South,Basic,458,8.15,751,347,5G,0
+16,Airtel,North,Family,403,28.88,1686,277,4G,0
+17,Airtel,South,5G Premium,257,19.26,1752,169,5G,0
+18,Jio,Central,5G Premium,669,17.59,1544,214,5G,0
+19,Jio,South,Basic,974,13.64,145,331,4G,0
+20,Airtel,Central,Family,664,14.01,1944,390,4G,0
+21,Jio,North,Student,210,17.15,699,173,4G,0
+22,Airtel,East,Family,829,21.5,819,232,5G,0
+23,Airtel,South,Unlimited,488,21.66,1392,334,4G,0
+24,Airtel,East,Student,958,6.81,700,248,4G,0
+25,Jio,Central,5G Premium,552,16.0,480,211,5G,0
+26,Jio,South,Student,837,13.53,217,435,4G,0
+27,Airtel,West,5G Premium,273,26.37,1689,171,4G,0
+28,Jio,East,5G Premium,914,19.68,215,361,5G,0
+29,Jio,South,Student,759,16.91,1753,275,4G,0
+30,Airtel,East,5G Premium,789,5.23,359,191,5G,0
+31,Jio,South,5G Premium,639,18.96,1198,247,4G,1
+32,Airtel,North,Unlimited,439,5.28,1603,180,5G,0
+33,Airtel,East,Family,352,11.44,404,307,5G,0
+34,Jio,West,Family,984,6.0,106,261,4G,0
+35,Jio,West,Unlimited,294,21.38,465,396,4G,0
+36,Jio,Central,Student,924,7.78,1757,271,5G,0
+37,Airtel,South,Basic,492,12.97,622,422,5G,0
+38,Airtel,East,Basic,407,27.08,1471,443,5G,0
+39,Jio,Central,Basic,541,7.72,1561,356,5G,1
+40,Jio,East,Unlimited,286,16.22,1338,259,4G,1
+41,Airtel,South,Unlimited,974,13.74,528,427,4G,0
+42,Jio,West,5G Premium,588,2.51,890,205,5G,0
+43,Airtel,North,Basic,523,24.2,1621,206,4G,0
+44,Jio,West,Student,355,3.93,1663,440,4G,0
+45,Airtel,Central,Student,866,15.28,846,263,4G,0
+46,Jio,North,Basic,849,17.7,466,347,4G,0
+47,Airtel,Central,Basic,831,19.6,412,328,4G,0
+48,Jio,South,Basic,775,21.28,637,368,5G,0
+49,Jio,North,Unlimited,817,9.09,1020,426,4G,0
+50,Airtel,Central,Unlimited,857,2.28,1177,165,4G,0
+51,Jio,South,Unlimited,335,22.26,1664,210,5G,0
+52,Jio,West,Family,872,17.0,1590,203,5G,0
+53,Jio,South,Student,626,25.41,964,317,4G,0
+54,Jio,East,Student,650,25.0,1287,175,4G,0
+55,Jio,South,5G Premium,810,25.61,881,214,5G,0
+56,Jio,South,Unlimited,339,15.58,433,249,5G,0
+57,Airtel,East,Family,281,11.34,1670,223,5G,0
+58,Airtel,Central,Family,375,24.16,897,341,5G,0
+59,Airtel,Central,Student,396,14.64,447,320,5G,0
+60,Airtel,South,Unlimited,822,7.14,372,422,4G,0
+61,Airtel,East,5G Premium,766,25.94,1062,336,5G,0
+62,Airtel,East,Unlimited,889,26.71,819,172,4G,0
+63,Jio,West,Basic,619,15.06,1873,330,5G,0
+64,Airtel,Central,Unlimited,599,4.12,1537,257,5G,0
+65,Airtel,North,Basic,896,12.86,599,311,4G,0
+66,Jio,Central,Basic,669,24.5,1216,355,4G,0
+67,Airtel,Central,5G Premium,416,27.25,784,227,4G,0
+68,Jio,West,Student,927,7.7,178,165,4G,0
+69,Airtel,North,Unlimited,830,3.88,721,245,5G,0
+70,Jio,West,Basic,373,26.57,1340,296,4G,0
+71,Jio,North,Unlimited,221,12.9,1046,151,5G,0
+72,Airtel,South,Student,923,17.17,457,159,4G,0
+73,Airtel,North,Student,433,29.11,717,274,5G,1
+74,Jio,West,Family,211,3.86,606,230,5G,0
+75,Jio,Central,Student,299,20.15,1682,289,5G,0
+76,Jio,North,5G Premium,734,4.07,1304,299,4G,0
+77,Jio,North,Basic,721,12.51,675,437,5G,0
+78,Airtel,East,Family,983,24.51,1369,278,4G,0
+79,Airtel,Central,5G Premium,650,14.14,343,388,4G,0
+80,Airtel,South,Unlimited,629,29.92,605,207,4G,0
+81,Jio,West,Basic,991,17.65,521,347,4G,0
+82,Jio,South,Student,804,10.99,1443,360,5G,0
+83,Airtel,Central,Basic,911,8.16,1210,194,4G,0
+84,Airtel,North,Unlimited,731,11.81,316,246,5G,0
+85,Airtel,North,Family,921,12.43,1613,428,5G,0
+86,Airtel,Central,Family,850,3.92,1642,172,4G,0
+87,Jio,North,Family,491,12.35,1401,193,5G,0
+88,Jio,North,Student,299,15.0,1972,176,4G,0
+89,Jio,North,5G Premium,700,22.24,1845,431,4G,0
+90,Jio,West,5G Premium,502,20.39,1108,246,4G,0
+91,Airtel,West,Basic,738,21.85,1292,185,5G,0
+92,Jio,East,Student,751,2.23,429,258,5G,0
+93,Jio,South,Family,553,8.09,749,204,4G,0
+94,Jio,Central,Family,501,20.53,1564,341,4G,0
+95,Jio,Central,Unlimited,694,15.55,490,368,5G,0
+96,Jio,Central,Unlimited,856,2.15,1619,334,4G,0
+97,Jio,East,Family,966,24.53,480,218,5G,0
+98,Jio,West,Family,425,23.64,1429,279,4G,0
+99,Airtel,East,Student,434,17.36,841,204,4G,0
+100,Airtel,Central,5G Premium,653,3.86,919,246,5G,0
+101,Airtel,South,Unlimited,211,23.46,772,236,4G,0
+102,Jio,North,5G Premium,408,18.34,612,443,5G,0
+103,Airtel,West,Student,939,23.89,1871,268,5G,0
+104,Jio,West,Family,595,23.05,1048,357,4G,0
+105,Jio,East,5G Premium,298,24.48,1311,303,4G,0
+106,Airtel,West,Family,229,16.5,1029,184,5G,0
+107,Airtel,Central,Family,726,5.93,1639,228,5G,0
+108,Jio,Central,Basic,847,20.79,1012,216,4G,0
+109,Airtel,East,5G Premium,527,19.37,743,183,5G,0
+110,Airtel,Central,5G Premium,364,22.78,526,246,4G,0
+111,Airtel,South,Family,657,6.76,601,318,4G,0
+112,Airtel,East,Student,298,7.46,829,318,5G,0
+113,Jio,South,Basic,819,26.93,1383,300,4G,0
+114,Jio,North,Family,371,23.0,1636,220,5G,0
+115,Jio,South,Unlimited,947,27.43,170,152,4G,0
+116,Jio,North,Unlimited,360,23.24,577,181,5G,0
+117,Jio,North,Basic,926,18.72,1301,436,4G,0
+118,Airtel,South,Student,974,20.32,556,231,4G,0
+119,Jio,East,Family,461,26.9,288,192,5G,0
+120,Jio,Central,5G Premium,472,18.21,390,254,4G,0
+121,Jio,Central,Basic,201,19.71,1643,150,4G,0
+122,Jio,North,Student,226,6.38,1888,210,4G,0
+123,Airtel,North,5G Premium,524,15.27,1019,419,4G,0
+124,Airtel,East,Unlimited,347,22.06,391,329,5G,0
+125,Airtel,West,Unlimited,738,9.59,855,373,4G,0
+126,Jio,South,5G Premium,686,7.66,1758,155,4G,0
+127,Jio,North,Basic,636,10.79,1934,252,4G,0
+128,Jio,Central,Unlimited,263,8.76,1406,159,4G,0
+129,Airtel,East,Family,554,8.02,1667,220,4G,0
+130,Jio,South,5G Premium,731,13.9,1969,239,4G,0
+131,Airtel,East,5G Premium,450,27.42,476,375,4G,0
+132,Airtel,South,Unlimited,433,16.2,1781,307,5G,0
+133,Airtel,South,Basic,425,7.26,1279,377,5G,0
+134,Airtel,North,Family,723,4.16,607,275,4G,0
+135,Jio,East,Basic,511,21.49,1536,358,4G,0
+136,Airtel,East,Student,247,12.72,627,246,4G,0
+137,Jio,Central,Student,316,25.01,1478,223,4G,0
+138,Jio,Central,Unlimited,252,20.47,658,264,4G,0
+139,Airtel,North,Unlimited,848,24.29,1886,340,4G,0
+140,Jio,North,Unlimited,763,9.61,1310,319,4G,0
+141,Jio,West,Student,242,21.39,1154,353,4G,0
+142,Airtel,Central,Basic,251,9.39,359,205,4G,0
+143,Jio,South,Basic,784,28.29,520,357,4G,0
+144,Airtel,East,Unlimited,756,19.82,1652,190,4G,0
+145,Airtel,North,Family,723,11.09,1674,181,4G,0
+146,Airtel,East,Basic,875,9.55,403,164,4G,0
+147,Jio,East,Student,300,7.35,1041,211,4G,0
+148,Jio,West,5G Premium,990,21.45,1162,304,4G,0
+149,Airtel,Central,5G Premium,968,8.12,1612,433,4G,0
+150,Airtel,North,5G Premium,596,18.67,1767,358,4G,0
+151,Jio,East,Family,336,9.41,641,336,4G,0
+152,Airtel,North,Unlimited,873,20.54,1793,279,4G,0
+153,Airtel,South,Student,585,24.82,1401,276,4G,0
+154,Jio,West,Family,309,23.78,1326,441,5G,0
+155,Jio,South,Student,812,23.3,1189,263,4G,1
+156,Airtel,North,Student,215,7.26,207,348,4G,0
+157,Jio,North,Unlimited,978,4.47,367,162,5G,0
+158,Jio,Central,5G Premium,380,21.57,321,420,4G,0
+159,Airtel,East,Unlimited,734,12.31,1927,238,4G,0
+160,Jio,East,Family,739,14.11,1653,364,5G,0
+161,Airtel,South,Family,369,2.87,1213,427,5G,1
+162,Jio,West,Family,607,9.27,792,352,4G,0
+163,Jio,East,Unlimited,938,2.94,354,223,4G,0
+164,Jio,Central,Student,576,26.62,1578,174,4G,1
+165,Airtel,South,Student,386,8.82,352,250,4G,0
+166,Jio,South,Basic,428,17.61,356,325,4G,0
+167,Airtel,Central,Family,317,3.09,482,266,4G,0
+168,Airtel,West,Student,354,20.67,541,315,4G,0
+169,Airtel,Central,Basic,982,11.04,1981,190,5G,0
+170,Jio,West,Student,885,27.14,698,269,5G,1
+171,Jio,Central,Family,663,26.87,1213,246,4G,0
+172,Airtel,Central,5G Premium,302,11.11,1872,294,5G,0
+173,Jio,North,Family,802,27.23,489,365,4G,0
+174,Airtel,South,Unlimited,896,29.89,681,378,5G,0
+175,Jio,Central,Student,993,25.11,1167,279,4G,0
+176,Airtel,Central,Student,700,25.66,1835,286,4G,0
+177,Jio,East,Unlimited,891,8.97,1787,422,4G,0
+178,Airtel,South,Unlimited,880,18.15,697,266,4G,0
+179,Jio,East,5G Premium,897,3.88,118,243,4G,0
+180,Airtel,South,Student,373,4.66,1224,317,5G,0
+181,Airtel,East,Student,932,29.97,706,352,5G,0
+182,Airtel,Central,5G Premium,943,11.15,1889,298,4G,0
+183,Jio,Central,Basic,872,22.95,1480,332,4G,0
+184,Jio,North,5G Premium,619,24.59,1665,301,4G,0
+185,Airtel,East,Family,332,26.02,1884,223,5G,0
+186,Jio,West,Student,589,29.93,132,423,5G,0
+187,Jio,North,Unlimited,934,8.76,1352,191,5G,0
+188,Jio,East,Family,699,3.13,1647,361,5G,0
+189,Jio,East,Student,863,13.51,1753,250,4G,0
+190,Airtel,North,5G Premium,231,5.64,961,194,4G,0
+191,Airtel,Central,Family,253,2.63,254,231,4G,0
+192,Jio,East,Student,717,12.09,1546,166,5G,0
+193,Jio,Central,Basic,954,23.94,1004,222,4G,1
+194,Jio,North,Basic,836,17.85,1369,163,4G,0
+195,Airtel,Central,Unlimited,210,10.76,504,306,5G,0
+196,Airtel,South,Student,726,20.32,943,372,4G,0
+197,Jio,West,Basic,918,8.5,1882,281,4G,0
+198,Jio,East,5G Premium,753,2.4,1664,196,5G,0
+199,Jio,West,Student,571,23.4,1284,256,4G,0
+200,Jio,Central,5G Premium,682,19.46,846,257,4G,0
+201,Jio,East,5G Premium,845,23.34,1825,414,5G,0
+202,Airtel,Central,Basic,426,3.09,1240,354,5G,0
+203,Airtel,South,Student,821,25.44,370,228,5G,1
+204,Jio,North,Family,505,19.35,869,304,4G,0
+205,Jio,East,Basic,655,17.78,1815,420,4G,0
+206,Airtel,South,Basic,358,19.49,1610,396,5G,0
+207,Airtel,South,Student,529,26.2,271,168,4G,0
+208,Jio,East,Student,974,18.43,373,175,4G,0
+209,Airtel,Central,5G Premium,423,18.27,358,366,5G,0
+210,Airtel,South,Student,927,29.74,1258,303,4G,0
+211,Jio,West,5G Premium,702,23.19,1806,303,4G,0
+212,Jio,South,Basic,654,14.38,1845,323,4G,0
+213,Jio,Central,Unlimited,243,21.81,1871,241,4G,1
+214,Airtel,Central,Family,412,12.9,521,330,4G,0
+215,Jio,West,Basic,257,8.41,1544,280,4G,0
+216,Airtel,South,Student,842,18.71,1309,447,5G,0
+217,Airtel,Central,Family,814,27.99,463,424,5G,0
+218,Jio,East,Unlimited,393,28.02,1730,422,4G,0
+219,Jio,North,Unlimited,687,11.57,477,225,4G,0
+220,Jio,North,5G Premium,355,16.77,1646,326,4G,0
+221,Jio,North,Family,808,7.93,679,333,4G,0
+222,Jio,South,5G Premium,424,29.88,990,280,5G,0
+223,Airtel,West,Basic,610,29.47,821,198,5G,0
+224,Airtel,Central,Family,403,20.19,1319,204,5G,1
+225,Airtel,East,Basic,277,24.52,980,303,4G,0
+226,Airtel,East,5G Premium,322,22.02,1221,349,4G,0
+227,Jio,South,Family,669,18.61,704,267,4G,0
+228,Airtel,North,5G Premium,416,3.49,121,412,4G,1
+229,Jio,South,Family,714,14.73,1573,195,5G,0
+230,Jio,West,5G Premium,800,20.89,1295,338,5G,0
+231,Jio,West,Unlimited,302,20.97,482,278,4G,0
+232,Jio,Central,5G Premium,591,12.45,233,198,5G,0
+233,Jio,Central,Unlimited,829,28.37,1549,174,4G,0
+234,Jio,West,5G Premium,843,6.69,1148,415,4G,0
+235,Airtel,West,Family,806,16.01,602,267,4G,1
+236,Jio,West,Family,632,21.34,1308,293,4G,0
+237,Airtel,South,Family,529,21.52,1208,349,4G,0
+238,Airtel,West,Student,341,20.16,1690,306,5G,0
+239,Jio,East,Basic,998,9.71,1886,283,5G,0
+240,Airtel,North,Family,738,6.37,243,297,4G,1
+241,Jio,West,Unlimited,476,19.81,1986,220,4G,0
+242,Jio,North,Family,431,18.78,1802,382,5G,0
+243,Jio,South,Student,727,7.02,1535,448,5G,0
+244,Airtel,North,Unlimited,769,21.74,323,303,5G,0
+245,Airtel,South,Student,288,14.74,319,239,4G,0
+246,Jio,East,Unlimited,690,20.7,278,348,5G,0
+247,Jio,South,5G Premium,397,25.45,1754,310,4G,0
+248,Jio,South,Basic,560,6.75,532,175,5G,0
+249,Jio,Central,Basic,639,2.54,364,270,4G,0
+250,Jio,West,Student,224,23.81,1053,361,5G,0
+251,Airtel,West,Basic,223,19.07,528,212,4G,0
+252,Airtel,East,Student,592,21.59,1785,217,4G,0
+253,Jio,East,Student,705,25.47,515,402,4G,0
+254,Airtel,West,Student,499,24.48,1576,151,4G,0
+255,Airtel,Central,Basic,537,28.91,826,257,5G,0
+256,Jio,West,Student,465,17.01,296,435,5G,0
+257,Jio,Central,Basic,659,15.68,1677,198,5G,0
+258,Jio,East,Student,891,13.25,1176,289,4G,0
+259,Jio,North,Family,654,6.3,579,367,5G,0
+260,Airtel,East,Student,558,18.03,1566,193,5G,0
+261,Jio,East,Unlimited,266,9.76,1453,418,4G,0
+262,Jio,South,Student,610,27.8,1374,227,4G,0
+263,Airtel,South,5G Premium,689,18.33,1930,365,5G,0
+264,Jio,South,Student,247,18.6,989,247,5G,1
+265,Jio,South,Unlimited,885,11.94,1906,385,5G,0
+266,Jio,Central,Unlimited,762,3.46,1024,431,4G,0
+267,Jio,West,Basic,300,2.89,222,298,4G,0
+268,Jio,North,Family,414,13.85,1510,215,4G,0
+269,Airtel,East,Student,636,4.37,1462,383,5G,0
+270,Airtel,Central,Basic,898,18.99,877,236,5G,0
+271,Jio,North,Family,767,26.67,447,228,4G,0
+272,Jio,Central,Student,757,26.72,128,354,5G,0
+273,Jio,Central,5G Premium,357,20.45,1074,428,4G,0
+274,Jio,East,Student,687,7.91,134,403,5G,0
+275,Jio,West,Unlimited,884,26.16,1641,279,4G,0
+276,Jio,South,Unlimited,440,26.81,1519,233,4G,0
+277,Jio,West,5G Premium,992,7.51,722,425,4G,0
+278,Jio,East,Basic,951,22.65,1417,336,4G,0
+279,Jio,East,Family,203,10.02,688,195,4G,0
+280,Jio,East,Student,794,24.47,1472,332,4G,0
+281,Jio,North,Unlimited,559,29.92,1270,417,4G,0
+282,Airtel,West,Basic,657,2.84,1190,445,5G,0
+283,Airtel,West,5G Premium,446,27.13,1003,249,4G,0
+284,Airtel,Central,Unlimited,764,19.43,619,227,4G,0
+285,Jio,Central,5G Premium,871,29.25,221,421,4G,0
+286,Airtel,Central,Student,620,15.02,439,311,5G,0
+287,Jio,East,Family,936,25.73,274,193,4G,0
+288,Jio,West,Unlimited,213,3.75,1814,387,5G,0
+289,Airtel,East,Unlimited,934,11.39,696,283,5G,0
+290,Jio,North,Student,771,3.88,550,341,4G,0
+291,Airtel,Central,Basic,320,29.31,656,427,4G,0
+292,Airtel,East,Family,475,24.88,1259,167,4G,1
+293,Jio,East,Unlimited,756,25.87,1978,161,4G,0
+294,Airtel,North,Family,651,28.26,1139,329,5G,0
+295,Airtel,South,Unlimited,588,4.38,1456,272,5G,0
+296,Jio,West,Family,492,12.8,1318,395,4G,0
+297,Jio,South,5G Premium,772,3.99,1619,371,4G,0
+298,Airtel,Central,Unlimited,796,7.9,108,200,5G,0
+299,Jio,East,Family,644,8.42,1951,220,5G,0
+300,Airtel,North,Basic,408,15.14,433,197,4G,0
+301,Airtel,North,5G Premium,788,9.52,1456,168,4G,0
+302,Jio,West,5G Premium,912,4.83,1116,411,4G,0
+303,Jio,South,Basic,500,6.69,426,233,5G,0
+304,Jio,West,Family,421,6.12,114,304,4G,0
+305,Jio,East,Student,932,29.25,938,202,4G,0
+306,Jio,West,Basic,201,23.26,1737,256,5G,0
+307,Jio,North,Family,716,29.1,325,284,5G,0
+308,Airtel,North,Basic,291,14.31,1548,218,5G,0
+309,Jio,Central,Basic,718,9.79,1913,160,4G,0
+310,Airtel,Central,Unlimited,626,24.35,1531,292,4G,0
+311,Jio,East,Family,691,11.14,212,341,5G,0
+312,Airtel,South,Student,433,10.38,1551,218,4G,0
+313,Airtel,West,Unlimited,818,8.51,100,172,4G,0
+314,Jio,East,Basic,359,5.63,365,330,4G,0
+315,Jio,Central,Basic,919,9.18,1614,442,4G,0
+316,Jio,West,Basic,950,11.95,1331,158,4G,1
+317,Airtel,Central,Family,529,20.87,1745,420,5G,0
+318,Airtel,West,Family,531,3.75,1835,242,5G,0
+319,Airtel,South,Unlimited,248,7.89,1051,166,5G,1
+320,Airtel,East,Student,721,24.65,1492,303,4G,0
+321,Jio,West,Unlimited,866,6.11,405,298,4G,0
+322,Jio,North,5G Premium,690,11.59,111,416,4G,0
+323,Jio,North,Basic,780,26.21,1468,255,5G,0
+324,Airtel,West,Basic,879,6.34,1588,184,4G,0
+325,Jio,West,Basic,470,4.32,1823,268,5G,0
+326,Jio,West,Unlimited,778,15.57,1789,163,5G,0
+327,Jio,North,Unlimited,450,10.47,1617,163,4G,0
+328,Jio,North,Basic,758,17.78,1491,415,4G,0
+329,Airtel,West,Unlimited,894,24.51,1969,289,5G,0
+330,Airtel,Central,Family,897,5.84,1036,443,5G,0
+331,Airtel,Central,Family,288,18.26,519,268,4G,0
+332,Jio,South,Unlimited,644,16.15,988,387,4G,0
+333,Airtel,East,Basic,530,6.03,1914,183,5G,0
+334,Airtel,Central,Unlimited,337,19.47,270,318,4G,0
+335,Airtel,North,Unlimited,555,9.66,233,159,4G,0
+336,Airtel,Central,Unlimited,799,15.66,1064,271,4G,0
+337,Jio,South,5G Premium,472,4.3,1550,294,4G,0
+338,Jio,South,Family,217,14.87,1148,372,4G,0
+339,Jio,East,Student,509,10.58,1653,406,4G,0
+340,Airtel,Central,Student,352,25.03,1313,417,4G,0
+341,Jio,North,5G Premium,588,3.6,1264,153,4G,0
+342,Jio,North,Unlimited,458,13.72,1678,255,5G,0
+343,Airtel,West,5G Premium,818,14.84,1969,234,5G,0
+344,Jio,North,5G Premium,995,22.3,1919,363,5G,0
+345,Airtel,East,Basic,769,18.08,757,270,5G,0
+346,Jio,East,Family,323,20.68,1438,281,4G,0
+347,Jio,North,Student,552,23.76,1567,346,4G,0
+348,Airtel,North,Unlimited,471,26.14,1442,168,5G,0
+349,Airtel,West,Student,817,10.79,1564,279,4G,0
+350,Jio,North,Student,443,17.06,1215,161,4G,0
+351,Jio,West,Family,648,25.52,278,230,5G,0
+352,Jio,West,Student,445,29.7,1179,411,4G,0
+353,Jio,North,Student,718,26.91,1278,274,4G,0
+354,Airtel,South,5G Premium,339,12.4,1795,416,5G,0
+355,Airtel,South,Family,560,7.46,210,289,5G,1
+356,Jio,West,Basic,206,15.7,236,151,4G,0
+357,Airtel,North,Unlimited,676,22.77,331,157,5G,0
+358,Jio,South,Student,550,15.79,1091,399,5G,1
+359,Jio,North,Unlimited,693,15.53,567,288,5G,0
+360,Jio,North,Basic,804,25.47,831,273,4G,0
+361,Airtel,North,Unlimited,625,12.12,580,377,4G,0
+362,Jio,Central,Basic,237,26.07,1191,159,5G,0
+363,Jio,North,5G Premium,791,13.39,913,361,5G,0
+364,Jio,Central,Student,385,11.19,1372,261,5G,0
+365,Jio,West,Basic,794,14.71,1093,157,4G,0
+366,Airtel,South,Unlimited,798,23.35,422,441,4G,0
+367,Jio,South,Student,952,5.53,1021,402,5G,0
+368,Jio,South,5G Premium,291,7.5,1003,163,4G,1
+369,Airtel,South,Student,284,28.64,1641,389,4G,1
+370,Airtel,South,Basic,242,6.91,1915,391,4G,0
+371,Airtel,South,5G Premium,335,17.9,1555,298,4G,0
+372,Airtel,South,Unlimited,619,18.22,1610,385,5G,0
+373,Airtel,West,5G Premium,272,15.71,705,316,5G,1
+374,Jio,North,5G Premium,746,20.05,528,169,4G,0
+375,Airtel,East,Family,811,8.44,1392,365,4G,0
+376,Airtel,Central,5G Premium,710,17.47,1832,284,5G,0
+377,Jio,East,5G Premium,354,12.42,1660,278,4G,0
+378,Airtel,East,Student,453,20.53,247,443,4G,0
+379,Jio,North,Unlimited,369,5.95,1241,395,5G,0
+380,Airtel,North,Student,926,17.98,949,338,4G,0
+381,Airtel,North,Student,368,7.19,466,193,5G,0
+382,Jio,South,Basic,962,9.8,949,235,4G,0
+383,Jio,West,Student,520,8.12,1189,193,4G,0
+384,Jio,South,Family,765,7.12,912,294,4G,0
+385,Jio,West,Family,654,25.12,1493,200,5G,0
+386,Jio,West,Basic,801,10.0,274,391,4G,0
+387,Airtel,East,Unlimited,988,27.96,1954,443,4G,0
+388,Airtel,East,Unlimited,811,29.16,687,200,5G,0
+389,Jio,West,Student,353,18.0,594,415,4G,0
+390,Jio,West,Student,547,6.0,1072,269,4G,0
+391,Jio,South,Student,649,12.49,1237,349,4G,0
+392,Airtel,South,Unlimited,851,24.34,1234,397,5G,0
+393,Airtel,East,5G Premium,371,12.29,1884,219,4G,0
+394,Jio,North,Family,208,4.44,1562,206,4G,0
+395,Airtel,West,5G Premium,938,17.59,1838,188,4G,0
+396,Jio,South,5G Premium,463,25.66,1270,438,4G,0
+397,Jio,East,Unlimited,636,24.29,134,167,5G,0
+398,Jio,South,5G Premium,958,6.9,1098,369,5G,0
+399,Jio,West,Basic,445,20.84,1432,393,5G,0
+400,Jio,West,Student,865,8.17,637,447,5G,0
+401,Airtel,Central,Basic,744,8.11,849,432,5G,0
+402,Jio,North,Family,697,26.47,1137,223,4G,0
+403,Jio,Central,Student,327,8.99,473,259,5G,0
+404,Jio,East,5G Premium,870,9.37,656,329,4G,0
+405,Airtel,South,Family,799,2.02,1551,181,4G,0
+406,Jio,East,Student,803,26.38,1851,383,5G,0
+407,Airtel,West,5G Premium,525,24.19,332,431,4G,0
+408,Airtel,Central,Basic,951,19.57,804,174,5G,0
+409,Jio,Central,Student,602,23.01,662,428,4G,0
+410,Airtel,Central,5G Premium,827,6.26,1038,375,5G,0
+411,Airtel,East,Basic,804,14.83,986,206,4G,0
+412,Jio,West,Family,873,11.83,825,329,5G,0
+413,Jio,South,Family,809,4.63,1786,381,5G,0
+414,Jio,South,Family,823,15.61,1563,436,4G,0
+415,Jio,East,Family,557,27.78,1625,213,4G,0
+416,Jio,Central,Unlimited,801,3.12,1398,381,4G,0
+417,Airtel,North,Student,916,10.16,1973,438,4G,0
+418,Airtel,East,Student,215,7.81,175,362,5G,0
+419,Jio,East,Unlimited,472,8.67,538,407,5G,0
+420,Jio,West,5G Premium,883,27.44,1855,167,4G,0
+421,Jio,South,5G Premium,314,15.11,1983,324,5G,0
+422,Jio,East,Family,891,15.06,798,378,5G,0
+423,Airtel,East,Basic,289,23.3,1412,375,4G,1
+424,Jio,Central,5G Premium,280,6.33,1014,233,5G,0
+425,Airtel,Central,Basic,522,15.64,1663,440,5G,0
+426,Jio,North,Student,312,14.04,990,395,4G,0
+427,Jio,West,Basic,967,18.71,791,259,4G,0
+428,Jio,North,Student,256,29.99,352,403,4G,0
+429,Airtel,Central,Unlimited,352,23.54,1249,237,5G,0
+430,Airtel,South,Unlimited,602,13.14,1300,221,5G,0
+431,Airtel,Central,Family,826,25.17,1160,179,5G,0
+432,Jio,West,5G Premium,464,6.78,509,321,4G,0
+433,Jio,Central,Family,513,2.85,1734,326,4G,0
+434,Airtel,West,Student,913,7.72,1733,288,4G,0
+435,Airtel,West,Family,239,11.53,226,343,4G,0
+436,Jio,West,Basic,303,16.3,1606,335,5G,0
+437,Airtel,West,Student,391,19.22,1291,367,5G,0
+438,Jio,West,Unlimited,599,27.5,691,313,5G,0
+439,Jio,South,5G Premium,476,16.28,393,310,5G,0
+440,Airtel,North,Student,552,16.04,1968,162,4G,0
+441,Airtel,East,Student,947,3.41,1761,445,4G,0
+442,Jio,North,Basic,931,2.98,1466,238,4G,1
+443,Airtel,West,5G Premium,778,17.43,1119,191,5G,1
+444,Airtel,South,Unlimited,907,14.27,409,359,5G,0
+445,Jio,Central,Student,454,25.5,761,378,4G,0
+446,Jio,South,Student,849,6.5,627,424,4G,0
+447,Jio,West,Basic,859,2.7,639,428,4G,0
+448,Jio,South,Family,297,14.57,518,400,4G,0
+449,Airtel,South,Unlimited,786,8.65,543,357,4G,0
+450,Airtel,West,5G Premium,480,3.39,784,289,4G,1
+451,Jio,South,Student,601,22.29,1681,429,4G,0
+452,Jio,East,Student,307,5.12,939,183,5G,0
+453,Jio,East,Unlimited,898,19.03,335,167,4G,0
+454,Jio,South,Family,397,9.87,1562,206,4G,0
+455,Airtel,Central,Student,501,6.86,313,261,4G,0
+456,Jio,West,Unlimited,525,12.63,184,154,4G,0
+457,Airtel,East,Basic,352,24.44,893,331,4G,0
+458,Jio,Central,Family,750,12.98,1867,162,4G,0
+459,Airtel,South,5G Premium,843,23.02,184,434,4G,0
+460,Airtel,Central,Student,603,5.51,1612,408,4G,0
+461,Airtel,North,Unlimited,660,23.64,164,239,5G,0
+462,Jio,East,Basic,330,8.63,1769,253,4G,0
+463,Jio,South,5G Premium,989,20.97,762,335,5G,0
+464,Jio,West,Unlimited,282,17.84,726,399,4G,0
+465,Jio,South,Unlimited,597,28.02,163,404,4G,0
+466,Airtel,West,5G Premium,952,12.85,1466,225,4G,0
+467,Airtel,South,Basic,826,3.85,1038,257,4G,0
+468,Jio,Central,Basic,307,2.54,1998,305,5G,0
+469,Airtel,Central,Family,419,25.15,1018,231,5G,0
+470,Jio,Central,Student,751,16.69,1475,226,5G,0
+471,Airtel,North,5G Premium,566,23.71,1281,407,5G,0
+472,Jio,West,5G Premium,345,8.56,1712,276,5G,0
+473,Airtel,Central,5G Premium,310,11.66,590,431,4G,0
+474,Jio,North,Basic,813,2.84,1781,237,4G,0
+475,Jio,West,Student,756,28.92,1978,353,5G,1
+476,Jio,South,Family,692,20.7,1586,165,5G,0
+477,Airtel,North,Unlimited,703,28.13,1348,300,4G,0
+478,Jio,East,Unlimited,673,9.43,412,403,5G,0
+479,Jio,North,5G Premium,469,19.12,714,337,4G,1
+480,Jio,North,Student,619,21.0,1018,181,4G,0
+481,Jio,West,Basic,905,10.89,1982,420,4G,0
+482,Jio,South,Student,565,25.75,912,154,5G,0
+483,Jio,East,Student,478,28.52,1039,318,5G,1
+484,Jio,Central,Basic,481,26.78,1589,330,4G,0
+485,Jio,Central,5G Premium,238,22.69,1211,327,4G,0
+486,Jio,North,Student,387,9.77,1426,292,4G,0
+487,Airtel,West,Unlimited,362,9.89,779,397,5G,0
+488,Airtel,West,Basic,734,28.97,534,276,4G,0
+489,Jio,Central,Family,734,2.29,781,412,4G,0
+490,Jio,East,5G Premium,202,22.05,1258,189,4G,0
+491,Jio,South,Basic,488,21.77,1173,404,4G,0
+492,Jio,East,Family,631,19.44,1555,292,4G,0
+493,Airtel,South,Family,669,29.72,439,389,5G,0
+494,Airtel,Central,Student,379,10.73,446,377,4G,0
+495,Jio,South,Student,446,11.52,745,347,5G,0
+496,Airtel,West,Student,826,4.21,1470,214,4G,1
+497,Jio,North,Basic,477,14.4,748,160,4G,0
+498,Airtel,North,Basic,779,9.31,344,257,4G,0
+499,Jio,Central,5G Premium,452,11.61,208,175,5G,0
+500,Jio,West,Student,379,25.37,1948,300,5G,0
+501,Jio,East,Family,879,28.19,1922,370,5G,0
+502,Jio,West,Unlimited,707,7.2,632,386,4G,0
+503,Airtel,North,5G Premium,959,12.43,1213,386,4G,0
+504,Jio,North,Basic,898,28.0,395,368,5G,0
+505,Jio,West,5G Premium,764,3.73,211,300,5G,0
+506,Airtel,West,5G Premium,524,4.59,1936,272,4G,1
+507,Jio,North,5G Premium,555,6.56,1712,293,5G,0
+508,Jio,East,5G Premium,848,18.67,1300,338,4G,1
+509,Jio,Central,Unlimited,878,6.21,442,404,4G,1
+510,Jio,Central,Student,589,29.11,1783,217,4G,0
+511,Jio,West,Family,813,14.51,200,253,4G,0
+512,Airtel,Central,5G Premium,283,16.04,1881,308,4G,0
+513,Jio,North,5G Premium,515,8.91,728,449,4G,0
+514,Jio,North,5G Premium,410,15.19,1727,239,4G,0
+515,Airtel,West,Student,713,20.53,1524,405,4G,1
+516,Airtel,West,Basic,582,23.03,127,369,4G,0
+517,Airtel,West,Basic,889,23.11,1036,158,5G,0
+518,Jio,East,Unlimited,540,18.18,1660,161,4G,0
+519,Jio,Central,Basic,236,27.32,157,393,4G,0
+520,Airtel,West,5G Premium,709,24.89,1621,331,4G,0
+521,Jio,South,5G Premium,618,23.2,396,433,5G,0
+522,Airtel,South,5G Premium,949,3.56,233,248,4G,0
+523,Jio,North,Unlimited,367,2.19,1454,346,4G,0
+524,Jio,Central,5G Premium,541,7.95,348,375,4G,0
+525,Jio,West,Basic,504,20.58,1120,252,5G,0
+526,Jio,South,Student,740,13.51,649,255,4G,0
+527,Airtel,Central,Student,900,13.27,1001,207,4G,0
+528,Airtel,North,Family,735,26.77,1198,227,4G,0
+529,Airtel,East,Basic,310,27.08,1777,224,4G,0
+530,Jio,Central,5G Premium,609,27.46,933,191,5G,0
+531,Jio,Central,Student,404,10.79,1291,330,5G,0
+532,Jio,East,Basic,383,21.35,870,182,5G,0
+533,Jio,Central,Student,580,9.61,1626,220,5G,0
+534,Jio,North,5G Premium,694,7.34,1478,205,4G,0
+535,Jio,North,Student,577,7.17,1348,254,4G,0
+536,Jio,East,Family,245,11.58,1787,349,5G,0
+537,Jio,West,Family,938,14.04,1654,250,4G,1
+538,Airtel,South,Student,749,25.27,245,405,5G,0
+539,Jio,West,Basic,726,5.36,1364,223,4G,0
+540,Airtel,Central,Basic,702,22.58,992,320,4G,0
+541,Jio,South,Basic,220,16.88,443,292,5G,0
+542,Jio,East,Student,411,10.06,1872,315,5G,1
+543,Airtel,East,Basic,508,15.8,1158,410,5G,0
+544,Jio,South,5G Premium,859,10.4,801,370,4G,1
+545,Jio,North,Family,951,18.69,100,232,5G,0
+546,Airtel,South,5G Premium,470,14.15,252,331,4G,0
+547,Airtel,Central,Basic,769,6.6,528,159,4G,0
+548,Jio,North,5G Premium,997,5.26,607,153,5G,0
+549,Jio,East,Basic,400,17.31,1249,441,5G,0
+550,Jio,South,Student,230,27.27,590,430,4G,0
+551,Jio,West,5G Premium,641,11.63,1605,364,5G,0
+552,Jio,West,Student,360,22.52,444,247,4G,0
+553,Jio,Central,Student,965,20.44,1861,250,4G,0
+554,Jio,West,Unlimited,452,28.08,320,158,4G,0
+555,Jio,South,Basic,719,24.99,822,210,5G,0
+556,Airtel,South,Family,849,17.86,1148,295,4G,0
+557,Airtel,West,Basic,678,20.4,627,212,5G,0
+558,Airtel,South,Family,208,27.15,1305,270,4G,0
+559,Jio,Central,Basic,924,13.19,1622,375,5G,0
+560,Jio,North,Student,703,11.15,940,254,4G,0
+561,Jio,Central,5G Premium,983,2.3,1764,409,5G,0
+562,Airtel,Central,5G Premium,758,25.14,1165,404,4G,0
+563,Airtel,South,Unlimited,634,24.43,580,356,5G,0
+564,Airtel,North,Family,309,4.92,1029,177,5G,0
+565,Airtel,South,Family,351,18.15,1971,319,5G,0
+566,Jio,East,Family,833,14.99,1871,225,4G,0
+567,Airtel,South,Student,300,5.32,971,265,5G,0
+568,Jio,South,Family,951,29.46,1562,218,4G,0
+569,Jio,South,5G Premium,389,8.01,1525,383,5G,0
+570,Airtel,North,Student,927,3.88,1669,150,5G,0
+571,Jio,South,Basic,761,18.66,444,316,4G,0
+572,Jio,North,Family,279,22.69,144,367,4G,0
+573,Airtel,West,Family,687,2.91,1769,422,4G,0
+574,Jio,East,Basic,286,20.44,120,400,4G,0
+575,Jio,North,Family,392,16.9,1757,323,5G,0
+576,Jio,West,Basic,302,4.89,1193,319,4G,1
+577,Airtel,North,Student,981,6.83,1987,395,4G,0
+578,Jio,North,5G Premium,294,17.9,972,239,4G,0
+579,Jio,East,Basic,621,10.3,147,198,4G,0
+580,Airtel,Central,Unlimited,396,28.27,1614,443,4G,0
+581,Jio,Central,Basic,199,24.92,650,299,5G,0
+582,Jio,North,Family,605,29.54,386,281,4G,1
+583,Jio,South,Student,576,9.27,1101,208,5G,0
+584,Airtel,West,Student,365,29.15,1133,348,4G,0
+585,Jio,South,Basic,707,14.07,641,364,4G,0
+586,Airtel,South,5G Premium,836,11.73,855,198,5G,0
+587,Airtel,North,Unlimited,511,3.41,373,381,4G,1
+588,Airtel,North,Student,791,3.48,1055,396,4G,0
+589,Airtel,North,Family,616,21.38,699,388,4G,0
+590,Airtel,North,Family,961,14.82,1879,317,4G,0
+591,Airtel,Central,5G Premium,879,8.34,480,197,4G,0
+592,Jio,North,Student,675,19.19,1452,200,4G,0
+593,Airtel,Central,Basic,271,9.08,578,448,4G,0
+594,Airtel,Central,Family,339,18.17,114,247,4G,0
+595,Jio,North,5G Premium,780,12.06,615,365,4G,0
+596,Jio,East,Student,460,25.06,290,326,4G,1
+597,Jio,West,Student,538,24.98,1291,229,4G,0
+598,Airtel,South,Student,506,15.37,1644,334,4G,0
+599,Airtel,Central,Student,443,11.82,720,176,5G,0
+600,Airtel,West,Student,713,12.15,1260,344,4G,0
+601,Airtel,East,Family,535,24.56,253,363,5G,0
+602,Airtel,South,5G Premium,773,11.19,1511,263,4G,0
+603,Airtel,South,Student,759,7.85,1332,391,5G,0
+604,Airtel,Central,Unlimited,274,4.37,371,273,4G,0
+605,Airtel,North,Unlimited,373,15.07,242,225,5G,0
+606,Jio,East,5G Premium,307,15.5,1734,345,5G,0
+607,Airtel,Central,Basic,381,25.55,1943,193,4G,0
+608,Airtel,East,Basic,390,8.19,1192,335,5G,0
+609,Jio,North,Basic,263,12.67,346,395,4G,0
+610,Jio,North,Unlimited,672,24.64,1384,233,4G,1
+611,Airtel,Central,Basic,981,25.06,887,356,5G,0
+612,Jio,North,Family,298,12.77,178,300,5G,0
+613,Jio,West,Student,742,14.86,1781,305,4G,0
+614,Airtel,South,Unlimited,326,10.49,722,165,4G,0
+615,Jio,Central,5G Premium,650,28.11,1893,314,5G,0
+616,Jio,East,5G Premium,567,5.32,1728,294,5G,1
+617,Airtel,West,Student,241,28.14,624,186,5G,1
+618,Airtel,Central,Unlimited,617,21.15,871,194,5G,0
+619,Jio,North,Basic,686,16.88,1037,355,4G,0
+620,Jio,North,Basic,276,2.91,1744,211,5G,0
+621,Airtel,North,Family,468,15.32,1453,168,4G,0
+622,Airtel,North,Family,872,13.42,1312,449,4G,0
+623,Airtel,East,Basic,899,6.51,1218,156,4G,0
+624,Jio,West,5G Premium,957,20.38,716,398,4G,0
+625,Jio,South,5G Premium,926,29.19,1131,266,4G,0
+626,Airtel,East,Family,513,17.74,166,217,5G,0
+627,Jio,East,Student,366,22.01,1619,183,4G,1
+628,Jio,South,Basic,537,3.92,290,343,4G,0
+629,Airtel,South,Family,391,13.69,1489,204,5G,0
+630,Airtel,North,Family,651,5.26,867,415,4G,1
+631,Jio,East,Basic,481,19.16,620,191,4G,0
+632,Jio,Central,Basic,534,28.28,1089,446,4G,0
+633,Jio,South,5G Premium,588,20.53,1240,380,5G,0
+634,Jio,South,Student,723,4.15,366,159,4G,0
+635,Airtel,West,Student,438,11.93,1734,277,4G,0
+636,Jio,Central,Basic,681,17.42,584,328,4G,0
+637,Jio,Central,Unlimited,857,13.29,1632,342,4G,0
+638,Airtel,South,Family,914,25.34,1421,241,4G,0
+639,Airtel,North,Family,790,24.81,1287,380,4G,0
+640,Airtel,West,Basic,753,19.13,475,227,4G,0
+641,Airtel,Central,Unlimited,656,12.46,752,234,5G,0
+642,Airtel,South,5G Premium,287,9.15,1391,179,4G,0
+643,Airtel,Central,Basic,858,4.96,648,362,4G,0
+644,Airtel,West,Basic,293,11.94,1197,198,4G,0
+645,Airtel,West,Family,650,13.57,1631,414,4G,0
+646,Jio,East,Basic,626,20.92,172,294,5G,1
+647,Jio,South,Basic,349,20.43,407,218,4G,0
+648,Jio,West,Basic,712,3.96,298,207,4G,0
+649,Jio,East,Family,574,13.07,1253,334,5G,0
+650,Jio,East,5G Premium,220,7.09,1881,211,4G,0
+651,Airtel,Central,5G Premium,511,6.39,1947,445,4G,0
+652,Jio,Central,Basic,717,25.16,671,315,4G,0
+653,Jio,East,Family,404,3.17,890,320,4G,0
+654,Jio,Central,5G Premium,573,13.74,1738,212,4G,0
+655,Jio,West,5G Premium,649,6.71,1931,296,4G,0
+656,Airtel,North,5G Premium,824,26.62,1955,310,4G,0
+657,Airtel,West,Family,982,17.6,1610,290,5G,0
+658,Airtel,East,Family,793,8.48,1976,246,4G,0
+659,Jio,East,Basic,377,16.07,1274,370,4G,1
+660,Jio,West,Student,408,22.48,1792,192,4G,0
+661,Airtel,Central,5G Premium,698,28.83,1329,441,4G,0
+662,Jio,Central,Student,662,8.17,278,257,4G,0
+663,Jio,East,Family,322,26.81,296,415,5G,1
+664,Airtel,South,Family,311,28.16,834,244,5G,1
+665,Airtel,Central,Family,210,27.66,188,411,5G,1
+666,Airtel,West,Student,324,19.79,898,220,5G,0
+667,Airtel,Central,Family,763,19.63,1557,368,4G,0
+668,Airtel,West,Basic,529,13.29,887,170,4G,0
+669,Airtel,East,Family,481,23.07,847,241,4G,0
+670,Airtel,Central,Unlimited,338,16.88,1306,276,4G,0
+671,Airtel,West,Student,599,20.97,308,229,5G,0
+672,Jio,East,Unlimited,295,14.0,592,387,4G,0
+673,Airtel,South,Family,715,22.48,1253,331,5G,0
+674,Jio,West,Basic,767,25.09,764,174,4G,0
+675,Airtel,South,5G Premium,267,6.1,1136,305,5G,0
+676,Jio,South,Family,316,25.32,1757,154,5G,0
+677,Airtel,North,Basic,257,17.13,970,269,5G,0
+678,Airtel,Central,Student,231,25.65,831,426,5G,0
+679,Jio,West,Unlimited,516,14.08,1229,167,4G,0
+680,Jio,South,Unlimited,248,12.61,1498,347,5G,0
+681,Jio,North,Unlimited,687,27.62,1705,206,5G,0
+682,Airtel,East,Student,217,9.03,1830,242,5G,0
+683,Airtel,West,Basic,924,25.64,797,168,5G,0
+684,Jio,South,Student,395,15.55,1222,342,5G,0
+685,Jio,Central,Unlimited,648,16.39,693,386,5G,1
+686,Jio,North,Family,757,10.64,1710,426,4G,0
+687,Jio,South,5G Premium,877,18.05,985,376,5G,0
+688,Airtel,Central,Student,650,11.11,951,382,4G,0
+689,Jio,South,Student,487,3.1,1315,189,4G,0
+690,Airtel,West,Basic,339,9.62,424,302,4G,0
+691,Airtel,West,Basic,282,2.18,1078,276,4G,0
+692,Jio,West,Student,892,29.39,1849,386,4G,0
+693,Jio,North,Unlimited,589,29.04,1950,204,4G,1
+694,Airtel,West,5G Premium,789,13.06,1055,321,4G,1
+695,Airtel,Central,Basic,413,22.39,1590,258,4G,0
+696,Jio,South,Unlimited,724,11.68,993,333,4G,0
+697,Airtel,East,Family,413,20.79,1490,347,5G,1
+698,Jio,Central,Basic,601,24.55,1441,236,5G,0
+699,Airtel,Central,Unlimited,326,28.51,243,350,5G,0
+700,Jio,West,Unlimited,675,13.21,483,424,5G,0
+701,Jio,North,5G Premium,958,23.93,315,360,5G,0
+702,Airtel,South,5G Premium,602,9.45,1484,267,4G,0
+703,Airtel,North,Family,227,29.73,423,340,5G,0
+704,Airtel,South,Unlimited,990,2.72,1138,191,5G,0
+705,Airtel,South,Unlimited,536,18.9,316,191,4G,1
+706,Jio,North,5G Premium,912,20.47,1615,425,4G,0
+707,Airtel,Central,Basic,559,21.27,1050,166,5G,0
+708,Jio,South,Basic,767,5.37,1670,432,4G,0
+709,Airtel,North,Student,590,28.28,282,407,5G,0
+710,Jio,South,5G Premium,416,7.07,369,212,4G,0
+711,Jio,East,Student,772,19.44,1044,211,4G,0
+712,Jio,Central,5G Premium,867,8.23,1590,249,4G,0
+713,Jio,West,Family,400,10.6,969,168,4G,0
+714,Airtel,South,Unlimited,215,17.3,1735,166,4G,0
+715,Airtel,East,Family,520,13.68,1642,395,5G,0
+716,Jio,West,5G Premium,716,6.49,1665,400,5G,0
+717,Jio,West,Unlimited,768,6.79,566,230,5G,0
+718,Jio,South,Basic,523,13.71,404,188,4G,0
+719,Airtel,North,Basic,610,23.2,1267,185,5G,0
+720,Jio,South,Student,516,27.14,210,346,4G,0
+721,Jio,East,5G Premium,879,4.36,1113,307,4G,0
+722,Airtel,West,5G Premium,280,13.01,331,353,4G,1
+723,Airtel,South,Basic,672,4.81,1814,345,4G,0
+724,Jio,North,Family,666,2.46,1707,365,4G,0
+725,Jio,South,Unlimited,623,20.53,1845,434,4G,0
+726,Jio,Central,Family,929,18.87,1855,345,5G,0
+727,Airtel,North,Family,887,6.56,1715,301,5G,0
+728,Jio,East,Basic,402,8.55,1623,163,4G,0
+729,Airtel,West,Basic,781,2.66,694,295,4G,0
+730,Airtel,South,Basic,585,25.38,1677,206,4G,0
+731,Airtel,North,Student,976,29.29,1396,360,4G,0
+732,Jio,Central,Family,296,5.79,1826,417,5G,0
+733,Jio,North,5G Premium,543,8.48,272,359,4G,0
+734,Jio,Central,Unlimited,406,26.32,1072,166,5G,0
+735,Airtel,East,Student,712,27.94,1130,435,5G,0
+736,Jio,West,5G Premium,834,13.75,1278,352,4G,0
+737,Airtel,East,Family,990,3.42,1645,248,5G,0
+738,Jio,South,Basic,784,3.1,645,428,4G,0
+739,Jio,North,Family,364,18.07,647,358,4G,0
+740,Airtel,Central,Unlimited,220,13.0,617,278,4G,0
+741,Jio,Central,Student,352,2.8,1013,437,4G,1
+742,Airtel,North,Student,637,18.33,314,401,4G,0
+743,Jio,North,Unlimited,493,2.32,233,414,4G,1
+744,Jio,South,5G Premium,417,24.05,384,420,5G,0
+745,Airtel,East,5G Premium,867,10.58,1249,337,5G,1
+746,Jio,Central,Student,693,3.13,1562,363,5G,0
+747,Airtel,South,Student,428,18.47,1972,432,4G,0
+748,Jio,East,Basic,218,13.14,785,360,5G,0
+749,Jio,South,5G Premium,751,29.27,1275,225,5G,0
+750,Jio,Central,Unlimited,346,17.24,430,297,5G,0
+751,Airtel,North,5G Premium,306,9.71,1661,362,5G,0
+752,Jio,North,Basic,601,21.86,1506,258,5G,0
+753,Jio,East,Student,794,9.6,1238,278,4G,0
+754,Airtel,West,Student,681,27.32,993,159,5G,0
+755,Airtel,East,Basic,565,12.49,1605,196,4G,0
+756,Jio,West,Unlimited,612,17.4,1407,245,5G,0
+757,Jio,South,Student,507,3.42,998,252,4G,0
+758,Jio,South,Family,332,13.93,1198,295,4G,0
+759,Jio,Central,Student,917,25.31,1289,176,4G,0
+760,Jio,West,Family,481,24.56,1312,369,5G,1
+761,Airtel,Central,Basic,976,8.28,177,167,4G,0
+762,Airtel,North,Basic,271,8.33,1046,316,4G,0
+763,Airtel,West,Student,679,24.88,1725,231,5G,0
+764,Jio,East,5G Premium,550,28.05,787,221,5G,0
+765,Airtel,North,Family,758,4.67,120,403,4G,0
+766,Jio,North,Unlimited,524,14.6,665,311,4G,0
+767,Jio,East,Student,943,11.45,1307,187,5G,0
+768,Jio,North,Unlimited,641,26.38,1994,350,5G,0
+769,Airtel,West,Student,298,4.34,1345,349,4G,0
+770,Jio,Central,5G Premium,257,7.91,926,404,5G,0
+771,Airtel,North,5G Premium,706,23.07,1451,328,4G,0
+772,Jio,West,5G Premium,456,3.44,278,184,5G,0
+773,Airtel,South,5G Premium,611,15.79,1911,231,5G,0
+774,Airtel,West,Basic,650,14.38,1235,369,4G,0
+775,Jio,Central,Basic,263,11.36,1859,307,4G,0
+776,Airtel,West,Family,793,13.05,1849,153,5G,0
+777,Airtel,East,Unlimited,352,16.84,1182,316,5G,0
+778,Jio,Central,Student,464,6.52,1450,353,4G,0
+779,Jio,South,Student,277,18.02,1004,343,5G,0
+780,Jio,East,Basic,513,24.55,1744,384,5G,0
+781,Jio,West,Student,860,23.28,768,355,4G,0
+782,Jio,Central,Basic,758,6.31,290,299,5G,0
+783,Airtel,South,Family,446,6.18,1323,308,4G,0
+784,Airtel,East,Unlimited,988,9.51,1435,428,5G,0
+785,Airtel,South,Family,808,12.11,807,315,4G,0
+786,Jio,West,5G Premium,612,13.44,1158,217,4G,0
+787,Jio,South,5G Premium,223,21.03,478,237,4G,0
+788,Airtel,North,5G Premium,482,3.59,486,366,5G,0
+789,Jio,East,Family,647,2.97,1881,150,5G,0
+790,Jio,South,Student,499,12.97,336,284,5G,0
+791,Airtel,West,Unlimited,266,21.52,715,334,5G,0
+792,Jio,West,5G Premium,205,7.42,1642,289,4G,0
+793,Jio,South,5G Premium,335,19.96,382,255,5G,0
+794,Jio,West,5G Premium,362,9.28,100,282,4G,0
+795,Airtel,Central,Unlimited,281,26.81,1854,257,5G,0
+796,Jio,Central,5G Premium,848,27.08,563,327,4G,0
+797,Jio,Central,Unlimited,618,10.32,1353,447,5G,0
+798,Jio,North,5G Premium,271,8.44,1066,295,5G,0
+799,Jio,South,Family,435,13.52,271,223,5G,0
+800,Jio,North,Family,244,8.73,1210,257,4G,0
+801,Jio,West,Unlimited,816,20.83,1676,271,4G,0
+802,Airtel,North,Family,998,25.13,1246,166,4G,0
+803,Jio,West,Unlimited,460,20.85,942,345,5G,0
+804,Jio,West,Family,374,25.08,1421,446,4G,0
+805,Jio,East,Family,364,13.12,789,401,5G,0
+806,Jio,Central,Unlimited,855,6.38,674,268,4G,0
+807,Jio,West,Student,568,22.66,1607,311,4G,0
+808,Jio,East,Family,993,12.09,264,347,5G,0
+809,Jio,Central,5G Premium,252,20.8,1822,194,4G,0
+810,Airtel,West,Student,888,9.58,482,328,5G,0
+811,Jio,West,Unlimited,617,4.27,308,193,5G,0
+812,Jio,North,Student,954,29.79,1862,420,4G,0
+813,Airtel,North,Basic,705,6.37,1555,227,4G,0
+814,Jio,Central,Basic,539,29.68,1512,327,4G,0
+815,Jio,West,Family,325,29.36,1683,152,4G,0
+816,Jio,South,Family,607,24.23,323,363,5G,0
+817,Jio,North,5G Premium,565,20.46,102,223,4G,0
+818,Airtel,Central,Student,469,18.18,471,200,4G,0
+819,Airtel,West,Basic,842,26.25,1810,216,4G,0
+820,Airtel,West,Family,803,10.1,1569,242,4G,0
+821,Jio,South,Student,577,15.1,710,325,4G,0
+822,Airtel,Central,Family,271,19.34,215,294,5G,0
+823,Airtel,West,Family,446,13.51,1393,156,5G,0
+824,Airtel,North,Basic,983,13.97,546,418,5G,0
+825,Jio,South,Basic,241,11.25,1491,153,5G,0
+826,Jio,Central,Family,575,17.8,1376,287,4G,0
+827,Airtel,South,Unlimited,239,25.82,1440,380,5G,0
+828,Airtel,North,Family,368,7.64,514,237,4G,0
+829,Jio,Central,Family,410,28.16,1218,166,4G,0
+830,Jio,South,5G Premium,691,21.29,1908,201,4G,0
+831,Airtel,East,5G Premium,878,25.05,991,283,4G,0
+832,Jio,North,5G Premium,237,17.57,1147,360,5G,0
+833,Airtel,North,Unlimited,567,23.83,1751,368,4G,0
+834,Airtel,North,Unlimited,955,2.45,762,354,5G,0
+835,Jio,East,Family,349,24.91,1973,360,4G,0
+836,Airtel,East,5G Premium,309,3.12,1173,426,4G,0
+837,Jio,West,Unlimited,678,26.92,1625,173,5G,0
+838,Airtel,South,Basic,634,29.77,817,153,4G,0
+839,Jio,West,Family,245,10.23,1621,301,4G,0
+840,Jio,South,Student,773,7.89,1458,408,4G,0
+841,Airtel,East,Family,935,23.43,1202,317,5G,0
+842,Jio,East,Student,564,9.08,1705,325,5G,0
+843,Airtel,West,5G Premium,267,26.24,1150,440,4G,0
+844,Jio,Central,Student,497,4.88,370,205,5G,0
+845,Airtel,West,5G Premium,494,5.53,661,257,5G,0
+846,Airtel,South,Basic,401,29.42,903,445,5G,1
+847,Airtel,West,Student,259,20.87,346,290,5G,0
+848,Jio,North,Family,512,25.71,1899,304,4G,0
+849,Jio,South,5G Premium,359,11.08,1714,411,5G,0
+850,Jio,South,Family,529,20.94,486,422,4G,1
+851,Airtel,Central,Unlimited,726,18.64,801,381,4G,0
+852,Jio,East,5G Premium,536,18.89,658,390,5G,0
+853,Airtel,South,Student,804,21.11,1072,407,5G,0
+854,Jio,East,5G Premium,502,18.11,1484,398,4G,0
+855,Airtel,West,Family,701,14.01,1989,226,4G,0
+856,Airtel,North,Basic,848,9.73,1083,329,5G,0
+857,Airtel,Central,5G Premium,536,23.52,1611,215,4G,0
+858,Jio,East,Student,748,8.34,451,320,4G,0
+859,Jio,South,Unlimited,837,21.39,1824,171,4G,0
+860,Airtel,East,Basic,473,8.53,1379,256,4G,0
+861,Jio,South,Unlimited,362,19.51,1345,376,5G,0
+862,Jio,East,5G Premium,641,22.92,852,365,4G,0
+863,Jio,South,Family,517,8.12,880,218,5G,1
+864,Jio,West,Family,787,3.68,1124,233,4G,1
+865,Airtel,South,Student,702,5.67,645,252,5G,0
+866,Jio,South,Family,884,18.97,1569,188,5G,1
+867,Airtel,North,Basic,585,25.78,178,162,5G,0
+868,Airtel,South,Family,801,3.26,1359,446,5G,0
+869,Jio,North,Student,948,22.56,433,330,5G,0
+870,Jio,Central,5G Premium,974,11.56,988,417,4G,1
+871,Airtel,North,5G Premium,889,15.4,1472,162,5G,0
+872,Airtel,West,Family,692,28.01,1221,269,5G,0
+873,Jio,North,Unlimited,688,11.3,1205,206,4G,0
+874,Airtel,Central,5G Premium,919,15.03,601,189,4G,0
+875,Airtel,West,Family,271,2.38,1600,277,5G,0
+876,Airtel,East,Student,707,4.28,1827,322,5G,0
+877,Jio,East,Family,588,9.24,864,184,4G,0
+878,Jio,North,5G Premium,817,2.78,1020,408,4G,0
+879,Airtel,North,Student,493,19.68,649,154,5G,0
+880,Airtel,Central,Family,567,13.94,113,367,4G,0
+881,Airtel,Central,Basic,994,17.35,491,160,5G,0
+882,Jio,South,Student,892,6.89,1470,266,5G,0
+883,Airtel,Central,Basic,747,10.29,409,333,5G,0
+884,Airtel,South,Unlimited,847,20.59,485,265,4G,0
+885,Jio,West,Student,766,29.03,1332,311,5G,0
+886,Airtel,North,Basic,385,3.41,1480,216,5G,0
+887,Jio,West,5G Premium,968,26.93,1073,349,5G,0
+888,Airtel,Central,5G Premium,643,18.15,1724,180,4G,0
+889,Airtel,West,Unlimited,768,17.79,1691,224,4G,0
+890,Airtel,West,Student,561,16.01,1217,386,5G,0
+891,Jio,West,Student,321,3.94,1216,215,4G,0
+892,Jio,Central,Student,386,4.52,439,219,4G,0
+893,Jio,West,Unlimited,940,18.83,696,446,4G,0
+894,Airtel,South,Student,878,11.55,1568,169,5G,1
+895,Jio,Central,5G Premium,618,27.68,856,375,4G,0
+896,Airtel,West,Basic,824,13.38,1145,348,4G,1
+897,Airtel,Central,5G Premium,450,6.01,390,188,4G,0
+898,Jio,East,5G Premium,817,22.01,1608,294,5G,0
+899,Airtel,South,Basic,747,10.21,1907,194,4G,0
+900,Airtel,West,5G Premium,533,16.71,405,240,4G,0
+901,Airtel,East,Unlimited,290,21.54,733,387,4G,0
+902,Airtel,East,Basic,728,27.21,1251,219,5G,0
+903,Airtel,Central,5G Premium,261,24.18,724,315,4G,0
+904,Jio,East,Family,860,20.94,1038,279,4G,0
+905,Jio,South,5G Premium,710,21.03,1396,363,4G,1
+906,Jio,South,Unlimited,337,28.49,947,238,5G,0
+907,Jio,North,Student,896,10.28,541,401,5G,0
+908,Airtel,South,5G Premium,383,2.03,602,221,5G,1
+909,Airtel,East,Student,403,9.61,229,314,5G,0
+910,Airtel,South,Family,970,8.1,1255,198,4G,0
+911,Jio,Central,5G Premium,412,20.53,696,201,5G,0
+912,Airtel,North,Basic,454,19.74,1605,438,4G,0
+913,Jio,East,Student,333,18.62,961,427,4G,0
+914,Airtel,North,Family,771,2.45,1513,263,4G,0
+915,Jio,East,Basic,286,22.41,692,388,4G,0
+916,Jio,Central,Basic,405,11.06,1098,282,5G,0
+917,Airtel,North,Basic,327,20.62,424,423,4G,0
+918,Jio,West,Basic,201,17.58,1192,315,5G,0
+919,Jio,East,5G Premium,952,11.6,1783,442,4G,1
+920,Airtel,West,5G Premium,319,5.77,547,392,4G,0
+921,Jio,North,5G Premium,583,4.64,1651,287,5G,0
+922,Jio,West,Family,812,25.28,918,228,5G,0
+923,Jio,West,Family,236,27.72,1740,319,5G,0
+924,Jio,North,Family,539,20.19,1288,272,4G,0
+925,Jio,Central,Unlimited,843,4.9,1611,325,4G,0
+926,Airtel,West,Family,912,13.26,1836,449,5G,0
+927,Airtel,West,5G Premium,219,22.41,808,231,5G,0
+928,Jio,Central,5G Premium,440,23.83,1549,236,4G,0
+929,Jio,West,Unlimited,653,5.31,1820,374,5G,1
+930,Airtel,West,Unlimited,819,2.0,1957,165,5G,1
+931,Airtel,West,Family,501,21.94,364,312,5G,0
+932,Jio,South,Student,794,11.98,1998,247,5G,0
+933,Jio,Central,Unlimited,793,9.13,711,305,5G,0
+934,Jio,West,Basic,267,2.36,1465,151,4G,0
+935,Airtel,Central,5G Premium,327,17.13,931,318,4G,0
+936,Airtel,East,Basic,394,25.83,1849,241,5G,0
+937,Airtel,East,5G Premium,338,28.81,1401,330,4G,0
+938,Jio,West,5G Premium,642,17.84,773,380,4G,0
+939,Airtel,Central,Unlimited,481,16.4,1562,297,4G,0
+940,Jio,Central,Unlimited,510,4.38,256,429,4G,0
+941,Airtel,Central,Basic,944,17.37,1545,338,5G,0
+942,Jio,South,5G Premium,733,12.64,350,277,5G,0
+943,Jio,East,Basic,863,19.0,977,156,4G,0
+944,Jio,Central,Student,475,12.88,1732,196,4G,0
+945,Airtel,Central,Basic,259,8.73,629,202,5G,0
+946,Airtel,South,Family,517,4.66,426,336,5G,0
+947,Airtel,South,Basic,250,10.82,1060,187,5G,0
+948,Jio,Central,Family,351,4.71,994,375,4G,0
+949,Jio,North,Family,947,6.95,196,202,4G,0
+950,Jio,Central,Family,509,29.65,612,373,4G,0
+951,Jio,Central,Student,742,14.43,315,303,5G,1
+952,Jio,South,Basic,765,16.89,1255,197,5G,0
+953,Airtel,South,Basic,587,26.46,1383,296,5G,0
+954,Jio,Central,Student,746,29.88,224,213,4G,1
+955,Airtel,Central,5G Premium,820,18.32,1205,331,5G,0
+956,Airtel,Central,Unlimited,375,24.75,1406,274,5G,0
+957,Jio,South,Basic,560,11.15,1806,328,4G,0
+958,Airtel,Central,Unlimited,512,10.56,158,188,4G,0
+959,Airtel,Central,Student,295,13.28,1667,409,4G,0
+960,Jio,West,5G Premium,411,20.83,260,152,4G,0
+961,Airtel,North,5G Premium,335,21.1,383,213,4G,0
+962,Jio,East,5G Premium,204,10.83,205,178,4G,0
+963,Airtel,North,Student,307,5.73,1228,160,4G,0
+964,Airtel,West,Family,745,19.71,1562,246,4G,0
+965,Airtel,East,Family,237,5.59,327,352,4G,0
+966,Airtel,Central,Unlimited,860,18.2,1823,170,5G,0
+967,Jio,West,Family,623,21.42,1705,188,4G,0
+968,Airtel,Central,Family,828,21.62,417,372,5G,0
+969,Jio,South,5G Premium,459,23.1,1587,251,4G,0
+970,Jio,West,5G Premium,624,26.44,901,195,5G,0
+971,Jio,South,Unlimited,285,16.0,1722,215,4G,0
+972,Jio,West,Basic,663,22.45,973,240,5G,0
+973,Jio,West,Unlimited,274,19.34,571,313,4G,0
+974,Airtel,South,Unlimited,669,7.23,1179,260,5G,0
+975,Airtel,East,Student,612,2.72,724,272,4G,0
+976,Airtel,North,Student,924,9.97,112,342,5G,0
+977,Jio,Central,Unlimited,655,14.4,1563,248,4G,1
+978,Airtel,West,Unlimited,483,19.28,1141,440,4G,0
+979,Jio,Central,Unlimited,437,25.8,793,308,4G,0
+980,Jio,South,Family,875,7.49,1072,252,5G,0
+981,Airtel,Central,Student,797,5.52,212,430,5G,0
+982,Jio,South,Unlimited,851,28.98,328,192,5G,0
+983,Airtel,Central,5G Premium,870,5.03,270,233,4G,1
+984,Airtel,North,5G Premium,756,15.4,394,340,4G,0
+985,Jio,North,Family,570,18.4,288,200,5G,0
+986,Jio,North,Family,693,17.16,525,359,4G,0
+987,Jio,North,Basic,822,4.41,1076,275,5G,0
+988,Jio,North,Basic,243,3.6,1202,218,5G,0
+989,Airtel,North,Basic,599,4.95,757,414,5G,0
+990,Jio,South,Family,445,18.4,1018,407,4G,0
+991,Jio,West,Family,814,17.24,1305,337,4G,0
+992,Jio,Central,Family,795,8.54,598,379,4G,0
+993,Airtel,North,5G Premium,648,19.86,1921,338,5G,0
+994,Jio,South,Family,683,24.96,861,159,4G,0
+995,Airtel,South,5G Premium,844,3.16,965,263,4G,0
+996,Airtel,South,Basic,818,15.95,925,225,4G,0
+997,Jio,West,Basic,216,21.3,1831,313,4G,1
+998,Airtel,Central,Basic,804,9.06,1958,234,5G,0
+999,Jio,West,Unlimited,860,10.62,170,198,5G,0
+1000,Jio,East,Unlimited,956,19.18,347,326,4G,1
