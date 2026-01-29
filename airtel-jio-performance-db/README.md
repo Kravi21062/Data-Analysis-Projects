@@ -88,7 +88,7 @@ To help telecom stakeholders:
 
 ## 🔗 Connect With Me
 
-- **LinkedIn:** ([add link if available](https://www.linkedin.com/in/ravi-kumar-07sk/))
-- **Portfolio:** ([add link if available](https://ravikumarportf.netlify.app/))
+- **LinkedIn:** ([Click here](https://www.linkedin.com/in/ravi-kumar-07sk/))
+- **Portfolio:** ([Click here](https://ravikumarportf.netlify.app/))
 
 ⭐ If you like this project, don’t forget to **star the repository**!
