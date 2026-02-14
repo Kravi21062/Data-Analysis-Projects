@@ -1,4 +1,4 @@
-# 🧹 Data Cleaner Pro
+# 🧹 Data Cleaner
 
 A beautiful, user-friendly data cleaning application built with Streamlit.
 
@@ -22,8 +22,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-3. Open your browser at `http://localhost:8501`
-
 ## Usage
 
 1. Upload your data file
@@ -33,3 +31,4 @@ streamlit run app.py
 5. Export cleaned data
 
 Enjoy cleaning! ✨
+
