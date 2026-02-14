@@ -22,6 +22,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+Live link: [https://data-cleaner-sr.streamlit.app/]
+
 ## Usage
 
 1. Upload your data file
