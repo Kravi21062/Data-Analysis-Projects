@@ -1,0 +1,131 @@
+# Amazon Sales EDA – Insights and Recommendations
+
+## Project
+Exploratory Data Analysis of the Amazon Sale Report dataset using Python, Pandas, NumPy, Matplotlib, and Seaborn.
+
+## Dataset Overview
+- Total records: 128,975
+- Total columns initially loaded: 24
+- Full-row duplicate records reported by `df.duplicated().sum()`: 0
+
+A repeated Order ID does not automatically indicate a duplicate because an order may contain multiple item records.
+
+## 1. Data Quality Findings
+
+### Missing values
+The initial missing-value check reported:
+- `fulfilled_by`: 89,698 missing values
+- `promotion_ids`: 49,153 missing values
+- `unnamed_22`: 49,050 missing values
+- `currency`: 7,795 missing values
+- `amount`: 7,795 missing values
+- `courier_status`: 6,872 missing values
+- `ship_country`, `ship_city`, `ship_state`, and `ship_postal_code`: 33 missing values each
+
+**Interpretation:** Missing data is present in several columns and could affect some analyses.
+
+**Recommended action:** Investigate why values are missing. Remove a column only after confirming it is empty or irrelevant. Do not automatically replace missing `amount` values with zero.
+
+## 2. Order Status
+
+The order-status chart shows that `Shipped` is the most common status, followed by `Shipped - Delivered to Buyer` and `Cancelled`.
+
+The initial analysis reported 18,332 rows marked `Cancelled`, approximately 14.2% of all 128,975 rows.
+
+**Interpretation:** Cancelled orders form a meaningful share of the dataset's rows.
+
+**Recommended action:** Compare cancellation share by category, fulfilment method, and time period. These comparisons can identify areas for further investigation, but do not prove the causes of cancellation.
+
+## 3. Product Category
+
+The category chart shows:
+- `Set`: 50,284 rows
+- `kurta`: 49,877 rows
+
+The recorded order-amount chart shows `Set` as the category with the highest summed amount, followed by `kurta`.
+
+**Interpretation:** These two categories account for much of the recorded activity, and `Set` has the highest raw summed order amount in the current analysis.
+
+**Recommended action:** Compare category order counts, average recorded amount, cancellation share, and stock availability. Profitability cannot be inferred without cost or margin data.
+
+## 4. Distribution of Order Amount
+
+The order-amount histogram is right-skewed. Most non-missing values appear in the lower amount ranges, while a smaller number of observations have much higher amounts.
+
+The median amount reported in the initial analysis was approximately ₹605.
+
+**Interpretation:** A relatively small number of high-value observations may influence the mean and total.
+
+**Recommended action:** Use the median alongside the mean and inspect high-value observations by category, SKU, and quantity. Confirm that high values are valid before changing or removing them.
+
+## 5. Regional Analysis
+
+The state-level recorded-amount chart places Maharashtra first, followed by Karnataka. Telangana, Uttar Pradesh, and Tamil Nadu are also among the leading states in the displayed top ten.
+
+**Interpretation:** Maharashtra and Karnataka have the highest summed recorded order amounts in this initial state-level analysis.
+
+**Recommended action:** Compare order volume, average order amount, cancellation share, and delivery outcomes by state before making regional planning decisions.
+
+## 6. Fulfilment Method and Cancellation
+
+The initial crosstab reported the following cancellation shares:
+- Amazon fulfilment: 12.79%
+- Merchant fulfilment: 17.47%
+
+**Interpretation:** The observed cancellation share is higher for Merchant-fulfilled rows in this dataset.
+
+**Recommended action:** Investigate whether the difference remains after comparing similar categories and periods. This is an association, not proof that fulfilment method causes cancellations.
+
+## 7. Monthly Recorded Order Amount
+
+The initial monthly aggregation reported:
+- March 2022: ₹101,683.85 across 171 rows
+- April 2022: ₹28,838,708.32 across 49,067 rows
+- May 2022: ₹26,226,476.75 across 42,040 rows
+- June 2022: ₹23,425,809.38 across 37,697 rows
+
+Recorded order amount decreases from April through June in the current aggregation.
+
+**Interpretation:** The raw monthly totals decline after April. March has far fewer rows, so it is not directly comparable with the following months. The amount aggregation includes different order statuses and should not be treated as verified realized revenue.
+
+**Recommended action:** Recheck the trend using clearly defined order statuses and compare it with monthly order counts and missing amounts. Confirm whether the date field represents the intended business date.
+
+## 8. Quantity and Amount Correlation
+
+The correlation heatmap reports a correlation of approximately 0.07 between `qty` and `amount`.
+
+**Interpretation:** There is very little linear correlation between these two columns across the rows included in this calculation.
+
+**Recommended action:** Check how quantity, item price, category, and order status interact. A low overall correlation does not mean quantity is irrelevant; differences between products and order statuses may affect the result.
+
+## 9. Potential Outliers
+
+The IQR method reported:
+- Lower bound: -59.5
+- Upper bound: 1,296.5
+- Potential outlier rows: 3,600
+
+**Interpretation:** The rule flags 3,600 amount observations as potential outliers. It does not establish that they are errors. The negative lower bound is a mathematical result of the IQR rule and does not mean negative order amounts are valid.
+
+**Recommended action:** Inspect flagged records and verify them against category, SKU, quantity, and order status. Do not remove or cap them without a documented reason.
+
+## Overall Recommendations
+
+1. Resolve data-quality questions before publishing final metrics.
+2. Define which order statuses should be included in any completed-sales measure.
+3. Investigate cancellation patterns by category, fulfilment method, and month.
+4. Compare product categories using multiple measures rather than row count alone.
+5. Investigate unusual amounts instead of automatically deleting them.
+6. Describe totals as **recorded order amounts** unless the business definition of revenue has been verified.
+
+## Limitations
+
+- The analysis is based on the supplied historical dataset, primarily covering March to June 2022.
+- The dataset does not provide enough cost information to calculate profit reliably.
+- The current charts describe associations and distributions; they do not prove causation.
+- Results should be recalculated after the final cleaning rules are applied.
+- Confirm whether all chart counts are row counts or unique order counts before presenting them as orders.
+
+## Conclusion
+
+The initial EDA shows that `Set` and `kurta` account for the largest number of records, `Set` has the highest summed recorded order amount, cancellation share differs by fulfilment method, and recorded monthly amounts decline from April to June. The analysis also identifies missing values and potential outliers that require careful handling. These findings can guide further investigation, but final business conclusions should be based on validated calculations and clearly defined metrics.
