@@ -16,12 +16,14 @@ A Python-based exploratory data analysis project using an Amazon sales report da
 
 ## Dataset
 
+-Dataset Name:** Amazon Sale Report
 - **File:** `Amazon Sale Report.csv`
+- **Source:** https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?select=Amazon+Sale+Report.csv
 - **Initial size:** 128,975 rows and 24 columns.
 - **Fields include:** order identifiers, dates, order status, fulfilment, sales channel, product category, quantity, amount, shipping information, and customer location fields.
 - **Period:** the supplied records are primarily from March to June 2022.
 
-Place the CSV in the `data/` directory. Add the original dataset source and its licence or usage terms here before publishing. Avoid publishing personal or sensitive data.
+Note: The original CSV file is not included in this repository because of its file size. Download the dataset from the Kaggle source linked above and place it inside the data/ folder before running the notebook.
 
 ## Tools and Libraries
 
